@@ -26,7 +26,7 @@ Some files will be needed in order for this generator to operate:
 4. Run npm i into terminal to install dependencies
 5. Run npm run develop into terminal
 6. The application should now run on http://localhost:3000/
-7. Or access via Heroku: 
+7. Or access via Heroku: https://luxbox-mern-app.herokuapp.com/
 
 
 ## Screenshots
